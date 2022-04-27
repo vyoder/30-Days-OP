@@ -3,7 +3,7 @@
 
 Day 1
 
-Bit Manipulation
-Kadane's Algorithm
+-Bit Manipulation
+-Kadane's Algorithm
 
 
