@@ -10,7 +10,10 @@
 - 977. Squares of a Sorted Array
 
 # Day 2
-
+- Bit Manipulation and Bit Masking
+- Preparing a mask
+- Use of XOR
+> 0^x=x; x^x=0;
 - OR 
 - AND 
 > UC -EVEN or ODD (Check Last Bit)
