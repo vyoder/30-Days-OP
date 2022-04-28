@@ -21,8 +21,8 @@ Day 2
 - - UC -DIVIDE BY 2
 - SHIFT LEFT
 - - UC -MULTIPLY BY 2
-- 
-
+- Find/Set/Replace ith BIT (make MASK, use OR,AND,Inverse)
+- Change from number a to b, number of bits (XOR)
 -
 
 -
