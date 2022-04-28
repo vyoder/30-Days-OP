@@ -9,7 +9,19 @@ Day 1
 
 -977. Squares of a Sorted Array
 
--
+Day 2
+
+- OR 
+- AND 
+- - UC -EVEN or ODD (Check Last Bit)
+- XOR 
+- - UC -SWAP NUMBERS
+- INVERSE 
+- SHIFT RIGHT 
+- - UC -DIVIDE BY 2
+- SHIFT LEFT
+- - UC -MULTIPLY BY 2
+- 
 
 -
 
