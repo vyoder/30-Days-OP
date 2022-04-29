@@ -29,16 +29,17 @@
 
 # Day 3
 - Do ListNode
+- Few TreeNode QUestions, dfs questions
 - Linked List
-- 
+- String substring
 - 
 - 
 - 
 # Day 4
 - 
-- 
-- 
-- 
+- DO BFS
+- DO LINKEDLIST
+- DO STRING questions
 # Day 5
 - 
 - 
